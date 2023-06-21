@@ -7,9 +7,6 @@
 > 卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。——北岛
 
 +   [在线阅读](https://pyda.apachecn.org)
-+   [在线阅读（Gitee）](https://apachecn.gitee.io/pyda-2e-zh/)
-+   [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
-+   [ApacheCN 学习资源](http://www.apachecn.org/)
 +   [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/it-ebooks/hands-on-ml-2e-zh)
 
 [下载本书代码（本书 GitHub 地址）](https://github.com/wesm/pydata-book)（建议把代码下载下来之后，安装好 Anaconda 3.6，在目录文件夹中用 Jupyter 笔记本打开）
@@ -34,14 +31,6 @@
 ```
 docker pull apachecn0/pyda-2e-zh
 docker run -tid -p <port>:80 apachecn0/pyda-2e-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install pyda-2e-zh
-pyda-2e-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
