@@ -6,7 +6,7 @@
 > 
 > 卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。——北岛
 
-+   [在线阅读](https://pyda.apachecn.org)
++   [在线阅读](https://pyda.flygon.net)
 +   [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/it-ebooks/hands-on-ml-2e-zh)
 
 [下载本书代码（本书 GitHub 地址）](https://github.com/wesm/pydata-book)（建议把代码下载下来之后，安装好 Anaconda 3.6，在目录文件夹中用 Jupyter 笔记本打开）
